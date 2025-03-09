@@ -2,7 +2,7 @@ import time
 
 def main():
   print('ansible-hipy3 start')
-  time.sleep(60 * 3)
+  time.sleep(60 * 0.3)
   print('ansible-hipy3 end')
 
 
